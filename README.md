@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ioannis
 #### I am a graduate CS Student
-![I am a graduate CS Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a graduate CS Student]
 
 I currently work as IT support analyst
 
