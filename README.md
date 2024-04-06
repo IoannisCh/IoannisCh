@@ -6,7 +6,7 @@ I currently work as IT support analyst
 
 Skills: Assembly / C / C++ / REACT 
 
-- 🔭 I’m currently working on REACT Native 
+- 🔭 I’m currently learning C 
 - 🌱 I’m currently learning Assembly 
 
 
