@@ -4,7 +4,7 @@
 
 I currently work as IT support analyst
 
-Skills: Assembly / C / C++ / REACT 
+Skills: Assembly / C / C++ / Java / REACT 
 
 - 🔭 I’m currently learning more on Assembly and C
 - 🌱 I’m currently working to improve my C++ CSProject
