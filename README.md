@@ -22,9 +22,9 @@ I am a recent Computer Science graduate specializing in low-level software. My p
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Insert your profile link]
+- **LinkedIn:** [https://www.linkedin.com/in/ioannis-chantolios/]
 - **Twitter:** [@I_Chantolios](https://twitter.com/I_Chantolios)
-- **Portfolio:** [Your Website URL or Link to a specific project]
+- **Portfolio:** [https://github.com/IoannisCh/CSProject]
 
 ---
 
